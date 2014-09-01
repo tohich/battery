@@ -9,6 +9,13 @@ class PackControllerTest extends WebTestCase
 {
     public function testCompleteScenario()
     {
+        $kernel = static::createKernel();
+        $kernel->boot();
+        $em = $kernel->getContainer()->get('doctrine.orm.entity_manager');
+
+        $query = $em->createQuery('DELETE from AppBatteryBundle:Pack p');
+        $query->getResult();
+
         // Create a new client to browse the application
         $client = static::createClient();
 
@@ -33,8 +40,8 @@ class PackControllerTest extends WebTestCase
         $client->submit($form);
 
         $form = $crawler->selectButton('Create')->form(array(
-            'app_batterybundle_pack[count]'  => '2',
-            'app_batterybundle_pack[type]'  => '3',
+            'app_batterybundle_pack[count]'  => '1',
+            'app_batterybundle_pack[type]'  => '1',
             'app_batterybundle_pack[name]'  => 'Test'
         ));
         $client->submit($form);
@@ -42,7 +49,7 @@ class PackControllerTest extends WebTestCase
         $crawler = $client->followRedirect();
 
         $expectedValues = array(
-            'AA' => 4,
+            'AA' => 5,
             'AAA' => 3,
             'C' => 0,
             'D' => 0
