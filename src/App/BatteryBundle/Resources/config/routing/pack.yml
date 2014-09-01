@@ -1,0 +1,12 @@
+batterypack:
+    path:     /
+    defaults: { _controller: "AppBatteryBundle:Pack:index" }
+
+batterypack_new:
+    path:     /new
+    defaults: { _controller: "AppBatteryBundle:Pack:new" }
+
+batterypack_create:
+    path:     /create
+    defaults: { _controller: "AppBatteryBundle:Pack:create" }
+    requirements: { _method: post }

@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="501e83fd-c8df-4c1d-930d-0a1534b147f7" name="Default" comment="" />
+    <ignored path="battery.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="battery" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pack.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/routing/pack.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="60" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+              <folding>
+                <marker date="1409523241047" expanded="true" signature="0:90" placeholder="batterypack:" />
+                <marker date="1409523241047" expanded="true" signature="91:186" placeholder="batterypack_new:" />
+                <marker date="1409523241047" expanded="true" signature="131:183" placeholder="defaults:" />
+                <marker date="1409523241047" expanded="true" signature="187:326" placeholder="batterypack_create:" />
+                <marker date="1409523241047" expanded="true" signature="233:288" placeholder="defaults:" />
+                <marker date="1409523241047" expanded="true" signature="295:324" placeholder="requirements:" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phpunit.xml.dist" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/phpunit.xml.dist">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PackControllerTest.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Tests/Controller/PackControllerTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.32985073" vertical-offset="0" max-vertical-offset="1105">
+              <folding>
+                <element signature="e#54#125#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DropDatabaseDoctrineCommand.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Command/DropDatabaseDoctrineCommand.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="13" selection-start="994" selection-end="994" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="1632">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ide-phpunit.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/ide-phpunit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="5" selection-start="1618" selection-end="1618" vertical-scroll-proportion="-19.346153" vertical-offset="449" max-vertical-offset="8772">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestListener.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="phar://$PROJECT_DIR$/phpunit.phar/phpunit/Framework/TestListener.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="93" column="82" selection-start="3563" selection-end="3612" vertical-scroll-proportion="-11.423077" vertical-offset="570" max-vertical-offset="1700">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Crawler.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/DomCrawler/Crawler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="324" column="31" selection-start="9112" selection-end="9112" vertical-scroll-proportion="-7.3461537" vertical-offset="5198" max-vertical-offset="16830">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebTestCase.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Test/WebTestCase.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="31" selection-start="365" selection-end="365" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="663">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/services.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Resources/views/Pack/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="27" selection-start="79" selection-end="79" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PackController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Controller/PackController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="5" selection-start="774" selection-end="774" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="1564">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="26" selection-start="210" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/doctrine/Type.orm.yml" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Entity/Type.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/app/config/routing_dev.yml" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/DataFixtures/ORM/LoadTypeData.php" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/DataFixtures/ORM/LoadPackData.php" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Repository/PackRepository.php" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Resources/views/Pack/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/doctrine/Pack.orm.yml" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Entity/Pack.php" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Resources/views/Pack/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Form/PackType.php" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/routing/pack.yml" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Controller/PackController.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/ide-phpunit.php" />
+        <option value="$PROJECT_DIR$/src/App/BatteryBundle/Tests/Controller/PackControllerTest.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BatteryBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BatteryBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="Configurable.PHP.PHPUnit" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="C:/OpenServer/domains/360yield.local" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RunManager" selected="PHPUnit.PackControllerTest.testCompleteScenario">
+    <configuration default="false" name="PackControllerTest.testCompleteScenario" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\BatteryBundle\Tests\Controller\PackControllerTest" configuration_file="$PROJECT_DIR$/app/phpunit.xml.dist" file="$PROJECT_DIR$/src/App/BatteryBundle/Tests/Controller/PackControllerTest.php" method="testCompleteScenario" scope="Method" use_alternative_configuration_file="true" />
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.PackControllerTest.testCompleteScenario" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.PackControllerTest.testCompleteScenario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="501e83fd-c8df-4c1d-930d-0a1534b147f7" name="Default" comment="" />
+      <created>1409491315995</created>
+      <updated>1409491315995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27013752" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40078586" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="21" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="45" selection-start="510" selection-end="516" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="46" selection-start="682" selection-end="696" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/AbstractFixture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="40" selection-start="2200" selection-end="2205" vertical-scroll-proportion="-3.8461537" vertical-offset="699" max-vertical-offset="1632">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="43" selection-start="214" selection-end="218" vertical-scroll-proportion="0.10559006" vertical-offset="0" max-vertical-offset="966">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="25" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Repository/TypeRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="550" column="28" selection-start="15417" selection-end="15417" vertical-scroll-proportion="0.49171844" vertical-offset="8535" max-vertical-offset="21811">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/DataFixtures/ORM/LoadPackData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="16" selection-start="525" selection-end="525" vertical-scroll-proportion="0.24637681" vertical-offset="0" max-vertical-offset="966">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/doctrine/Type.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="24" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Entity/Pack.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="39.346153" vertical-offset="1023" max-vertical-offset="1989">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Resources/views/Pack/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="37" selection-start="173" selection-end="184" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Form/PackType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="25" selection-start="506" selection-end="506" vertical-scroll-proportion="-5.0384617" vertical-offset="158" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Entity/Type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="15" selection-start="1603" selection-end="1603" vertical-scroll-proportion="-24.846153" vertical-offset="1088" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/DataFixtures/ORM/LoadTypeData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="39" selection-start="1108" selection-end="1108" vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/doctrine/Pack.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="32" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Repository/PackRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="22" selection-start="323" selection-end="323" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="544">
+          <folding>
+            <marker date="1409521185351" expanded="true" signature="-1:-1" placeholder="SELECT t.nam..AppBatteryBundle..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="60" selection-start="252" selection-end="257" vertical-scroll-proportion="0.21276596" vertical-offset="0" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1021" column="20" selection-start="32367" selection-end="32367" vertical-scroll-proportion="-0.5683564" vertical-offset="17455" max-vertical-offset="19244">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="657">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="636">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="210" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Resources/config/routing/pack.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="60" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <marker date="1409523241047" expanded="true" signature="0:90" placeholder="batterypack:" />
+            <marker date="1409523241047" expanded="true" signature="91:186" placeholder="batterypack_new:" />
+            <marker date="1409523241047" expanded="true" signature="131:183" placeholder="defaults:" />
+            <marker date="1409523241047" expanded="true" signature="187:326" placeholder="batterypack_create:" />
+            <marker date="1409523241047" expanded="true" signature="233:288" placeholder="defaults:" />
+            <marker date="1409523241047" expanded="true" signature="295:324" placeholder="requirements:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/phpunit.xml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Tests/Controller/DefaultControllerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Controller/PackController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="5" selection-start="774" selection-end="774" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="1564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Test/WebTestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="31" selection-start="365" selection-end="365" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/phpunit.phar/phpunit/Framework/TestListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="82" selection-start="3563" selection-end="3612" vertical-scroll-proportion="-11.423077" vertical-offset="570" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/DomCrawler/Crawler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="324" column="31" selection-start="9112" selection-end="9112" vertical-scroll-proportion="-7.3461537" vertical-offset="5198" max-vertical-offset="16830">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Resources/views/Pack/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="27" selection-start="79" selection-end="79" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/ide-phpunit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="5" selection-start="1618" selection-end="1618" vertical-scroll-proportion="-19.346153" vertical-offset="449" max-vertical-offset="8772">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Command/DoctrineCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="25" selection-start="676" selection-end="676" vertical-scroll-proportion="0.27910447" vertical-offset="34" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Command/DropDatabaseDoctrineCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="13" selection-start="994" selection-end="994" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="1632">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/BatteryBundle/Tests/Controller/PackControllerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.32985073" vertical-offset="0" max-vertical-offset="1105">
+          <folding>
+            <element signature="e#54#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

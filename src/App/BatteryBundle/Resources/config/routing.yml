@@ -1,0 +1,6 @@
+app_battery_homepage:
+    path:     /
+    defaults: { _controller: AppBatteryBundle:Pack:index }
+AppBatteryBundle_batterypack:
+    resource: "@AppBatteryBundle/Resources/config/routing/pack.yml"
+    prefix:   /batterypack

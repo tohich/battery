@@ -1,0 +1,23 @@
+App\BatteryBundle\Entity\Pack:
+  type: entity
+  repositoryClass: App\BatteryBundle\Repository\PackRepository
+  table: pack
+  id:
+    id:
+      type: integer
+      generator: { strategy: AUTO }
+  fields:
+    count:
+      type: integer
+      nullable: false
+    name:
+      type: string
+      length: 255
+      nullable: true
+  manyToOne:
+    type:
+      targetEntity: Type
+      inversedBy: packs
+      joinColumn:
+        name: type_id
+        referencedColumnName: id

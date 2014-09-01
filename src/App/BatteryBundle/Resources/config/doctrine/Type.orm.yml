@@ -1,0 +1,17 @@
+App\BatteryBundle\Entity\Type:
+  type: entity
+  repositoryClass: App\BatteryBundle\Repository\TypeRepository
+  table: type
+  id:
+    id:
+      type: integer
+      generator: { strategy: AUTO }
+  fields:
+    name:
+      type: string
+      length: 255
+      unique: true
+  oneToMany:
+    packs:
+      targetEntity: Pack
+      mappedBy: category

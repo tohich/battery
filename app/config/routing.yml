@@ -1,0 +1,4 @@
+app_battery:
+    resource: "@AppBatteryBundle/Resources/config/routing.yml"
+    prefix:   /
+
